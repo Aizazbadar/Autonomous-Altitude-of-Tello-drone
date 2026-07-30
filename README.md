@@ -1,4 +1,3 @@
-```md
 # Overview
 
 The Ryze Tello is a lightweight educational drone with a built-in camera, barometer, and Wi-Fi-based SDK. In this project, altitude-related motion is controlled using an off-board vision-based feedback loop, where the drone’s state is observed through a camera feed and processed on an external computer.
@@ -198,4 +197,3 @@ This project is useful for anyone studying or working in:
 - Delay compensation in control engineering
 
 It demonstrates how theoretical ideas from control engineering can be applied to a real drone using accessible tools and a lightweight hardware platform.
-```
