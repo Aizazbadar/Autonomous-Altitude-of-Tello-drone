@@ -1,6 +1,8 @@
 # Video on only I-PD Controller which is Unstable 
 
-# Here, we can clearly see that the drone becomes unstable due to time delay, computer vision processing, image processing latency, Wi-Fi communication delay, noisy visual feedback, and the slow response of the control loop.
+https://github.com/user-attachments/assets/d1d8e1a6-6d72-4007-95b8-202e2ab2eb8e
+
+Here, we can clearly see that the drone becomes unstable due to time delay, computer vision processing, image processing latency, Wi-Fi communication delay, noisy visual feedback, and the slow response of the control loop.
 
 # Video on I-PD Controller with Smith Predictor Which is Stable 
 
