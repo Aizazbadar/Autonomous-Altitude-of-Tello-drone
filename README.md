@@ -1,3 +1,12 @@
+# Video on only I-PD Controller which is Unstable 
+
+# Here, we can clearly see that the drone becomes unstable due to time delay, computer vision processing, image processing latency, Wi-Fi communication delay, noisy visual feedback, and the slow response of the control loop.
+
+# Video on I-PD Controller with Smith Predictor Which is Stable 
+
+https://github.com/user-attachments/assets/03e61a1f-ab78-443a-8e36-de86530e27f2
+
+
 # Overview
 
 The Ryze Tello is a lightweight educational drone with a built-in camera, barometer, and Wi-Fi-based SDK. In this project, altitude-related motion is controlled using an off-board vision-based feedback loop, where the drone’s state is observed through a camera feed and processed on an external computer.
